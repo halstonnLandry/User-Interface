@@ -89,4 +89,47 @@ header{
 header div{
 	vertical-align:top;
 	display:inline-block;
+	width:225px;
+	margin:50px;
+}
+section{
+	display:inline-block;
+	text-align:left;
+	font-size:15px;
+}
+
+.middle-img{
+	width: 100%;
+	height:auto;
+	display:block;
+	margin:auto;
+}
+ .bot{
+	text-align:center;
+	width:100%;
+}
+.top{
+	text-align:center;
+	width:100%;
+}
+.bot section{
+	width:30%
+}
+.top section{
+	width:40%;
+	margin:3%;
+}
+.bot section h2{
+	margin-top:30px;
+}
+h2{
+	font-size:20px;
+}
+footer div{
+	font-size:15px;
+}
+.bottomText{
+	font-size:10px;
+	text-align:center;
+	margin:10px;
 }
